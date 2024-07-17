@@ -35,6 +35,9 @@ nimble , schema Free , simple to use , in memory and real time , easy to maintai
 
 any software app that needs backend db all rdbms use cases all document db use cases all key- value db use cases use cases that needs GeoSpacial/Time series Analytics Best suited to real - time application for data analytics Improving existing application reporting/ analytics performance. Live working HTML, Templates.
 
+LINK: http://localhost:8383/MINIPROJECT1/index.html
+
+
 
 
 

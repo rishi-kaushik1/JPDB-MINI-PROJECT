@@ -1,6 +1,9 @@
 # JPDB-MINI-PROJECT
 
-Scope of functionalities :
+Scope of functionalities :<img width="1427" alt="Screenshot 2024-07-17 at 19 23 17" src="https://github.com/user-attachments/assets/e1952d3e-93bd-4c70-b9a9-a06549766f2a">
+<img width="1427" alt="Screenshot 2024-07-17 at 19 22 09" src="https://github.com/user-attachments/assets/b1785f13-9735-4e9e-90b1-ba72becb5d43">
+<img width="1427" alt="Screenshot 2024-07-17 at 19 21 15" src="https://github.com/user-attachments/assets/ad1f497a-d726-4940-86a7-34172b7a6fc6">
+
 
 Examples of use : can be used foe various other platforms like Online Examination Registration , Job Application , profile creation , and many more other uses .
 
